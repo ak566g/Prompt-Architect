@@ -3,8 +3,6 @@ package com.example.prompt_architect_server.service;
 import com.example.prompt_architect_server.dto.project.ProjectRequest;
 import com.example.prompt_architect_server.dto.project.ProjectResponse;
 import com.example.prompt_architect_server.dto.project.ProjectSummaryResponse;
-import org.jspecify.annotations.Nullable;
-
 import java.util.List;
 
 public interface ProjectService {
